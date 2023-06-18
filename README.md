@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](Screen Shot 2023-05-17 at 14.28.24.png)
+![screenshot](galleryscreenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
